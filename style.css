@@ -1,0 +1,10 @@
+header {
+    color: #333333;
+    font-size: 12px;
+}
+
+@media (min-width: 1140px) {
+    #myname {
+        font-size: 3rem;
+    }
+}
